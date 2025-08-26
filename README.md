@@ -1,2 +1,2 @@
 # Exercise03
-Exercise
+Sean Baribeau Ruel
